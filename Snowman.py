@@ -204,6 +204,6 @@ goto(-100, 230)
 pendown()
 
 color("red")
-write("WHATS GOOD NIGGA !", font = ("Arial", 20, "bold"))
+write("Merry Christmas !", font = ("Arial", 20, "bold"))
 
 hideturtle()
